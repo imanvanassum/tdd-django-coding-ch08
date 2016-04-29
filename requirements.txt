@@ -1,1 +1,4 @@
-Django==1.8
+Django==1.9.5
+gunicorn==19.4.5
+selenium==2.53.2
+virtualenv==15.0.1
