@@ -1,0 +1,8 @@
+[live]
+django.iman.vanassum.net
+
+[staging]
+django.iman-test.vanassum.net
+
+[local]
+localhost ansible_ssh_port=22 ansible_host=127.0.0.1
